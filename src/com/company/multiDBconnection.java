@@ -7,8 +7,8 @@ import java.sql.SQLException;
 public class multiDBconnection {
     static private String username = "root";
     static private String password = "";
-    static private String con_string_db_1 = "jdbc:mysql://localhost/ muhammedessahameed";
-    static private String con_string_db_2 =  "jdbc:mysql://localhost/ muhammedessa";
+    static private String con_string_db_1 = "jdbc:mysql://localhost/ myDB";
+    static private String con_string_db_2 =  "jdbc:mysql://localhost/ myDB";
     static private String db1 = "db1";
     static private String db2 = "db2";
 
